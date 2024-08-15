@@ -1,18 +1,20 @@
-#Travello
 Travello is a static travel website designed to inform and inspire travelers about the various services we offer. Whether you're planning a vacation, looking for travel tips, or seeking personalized itineraries, Travello is your go-to resource for everything travel-related.
 
-Features
-Destination Guides: Explore detailed guides to popular travel destinations.
-Service Information: Learn about the various travel services we offer, including accommodation booking, guided tours, and travel insurance.
-Interactive Maps: Discover new places with interactive maps.
-Personalized Itineraries: Get tips on how to plan your trips with suggested itineraries.
+Some features that I've included include destination guides to help explore popular travel destinations, service Information elaborating on travel services the travel companz offers, including accommodation booking, guided tours, and travel insurance, interactive Maps
+.
 Technologies Used
+
 HTML5: For the website structure.
+
 CSS3: For styling and layout.
+
 JavaScript: For interactive elements.
+
 FontAwesome: For icons.
+
 GSAP (GreenSock Animation Platform): For animations and visual effects.
-Installation
+
+
 Since this is a static website, no special installation is needed. Simply clone the repository and open the index.html file in your web browser.
 
 Steps:
